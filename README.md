@@ -8,6 +8,7 @@ It uses a point to plane distance calculation, and for that piece the explanatio
 The algorithm is implemented based on Javidx9's 3D graphics engine series (part 4, see: https://youtu.be/nBzCS-Y0FcY), and uses OneLoneCoder's PixelGameEngine (see: https://github.com/OneLoneCoder/Javidx9/tree/master/PixelGameEngine) for the graphics.
 
 Have fun with it!
+
 Joseph21
 
 december 2, 2024
